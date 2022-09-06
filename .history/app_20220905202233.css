@@ -100,12 +100,4 @@ body{
     border-top: 1px solid #e1f1ff;
 }
 
-.pricing-features:last-child{
-    border-bottom: 1px solid #e1f1ff;
-}
-.pricing-price{
-    color: #60a9ff;
-    display: block;
-    font-size: 32px;
-    font-weight: 700;
-}
+.pricing-
