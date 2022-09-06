@@ -71,10 +71,6 @@ body{
     text-transform: uppercase;
 }
 
-.pricing-plan:not(:last-child) {
-    border-bottom: 1px solid #e1f1ff;
-  }
-
-.pricing-img {
-    margin-bottom: 25px;
+.pricing-panel{
+    border-bottom: 1px soli;
 }

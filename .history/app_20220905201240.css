@@ -71,10 +71,10 @@ body{
     text-transform: uppercase;
 }
 
-.pricing-plan:not(:last-child) {
+.pricing-panel{
     border-bottom: 1px solid #e1f1ff;
-  }
+}
 
-.pricing-img {
-    margin-bottom: 25px;
+.pricing-pan: last-child{
+    border-bottom: none;
 }
